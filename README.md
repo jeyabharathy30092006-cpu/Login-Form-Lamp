@@ -21,7 +21,6 @@ https://jeyabharathy30092006-cpu.github.io/Login-Form-Lamp/
 - JavaScript – Form validation and user interaction
 
 📂 Project Structure
-
 Login-Form-Lamp
  * index.html
  * style.css
@@ -40,7 +39,6 @@ https://github.com/jeyabharathy30092006-cpu/Login-Form-Lamp.git
 🎯 Project Objective
 
 The main objective of this project is to create an attractive and responsive login interface while practicing frontend web development concepts such as:
-
 - HTML page structure
 - CSS styling and animations
 - Responsive web design
@@ -48,7 +46,6 @@ The main objective of this project is to create an attractive and responsive log
 - User interaction
 
 🔮 Future Enhancements
-
 - Add backend authentication
 - Connect the login form with a database
 - Add user registration
@@ -57,14 +54,15 @@ The main objective of this project is to create an attractive and responsive log
 - Implement secure authentication
 
 👩‍💻 Author
-
 Jeya Bharathy
+
 Computer Science and Engineering Student
 
 🔗 Links
 
 Live Demo:
 https://jeyabharathy30092006-cpu.github.io/Login-Form-Lamp/
+
 GitHub Repository:
 https://github.com/jeyabharathy30092006-cpu/Login-Form-Lamp
 
