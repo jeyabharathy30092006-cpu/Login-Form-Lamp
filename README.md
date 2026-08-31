@@ -19,12 +19,13 @@ https://jeyabharathy30092006-cpu.github.io/Login-Form-Lamp/
 - JavaScript – Form validation and user interaction
 
 📂 Project Structure
-Login-Form-Lamp/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+
+Login-Form-Lamp
+
+ * index.html
+ * style.css
+ * script.js
+ * README.md
 
 ⚙️ How to Run
 1. Clone the repository:
