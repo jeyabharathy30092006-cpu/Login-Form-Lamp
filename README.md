@@ -2,7 +2,6 @@
 A creative and responsive Login Form Lamp project built using HTML, CSS, and JavaScript. The project provides a clean and interactive login interface with form validation and an attractive lamp-inspired design.
 
 🚀 Live Demo
-🔗 Live Demo:
 https://jeyabharathy30092006-cpu.github.io/Login-Form-Lamp/
 
 ✨ Features
