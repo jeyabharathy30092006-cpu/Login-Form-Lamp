@@ -28,6 +28,13 @@ Login-Form-Lamp
  * script.js
  * README.md
 
+## 📸 Screenshots
+### 💡 Login Form Lamp - Lamp Off
+![Login Form Lamp - Lamp Off](./lamp-off.jpg)
+
+### 🔐 Login Form Lamp - Login Interface
+![Login Form Lamp - Login Interface](./lamp-login.jpg)
+
 ⚙️ How to Run
 
 1. Clone the repository:
